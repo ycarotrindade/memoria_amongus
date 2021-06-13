@@ -1,0 +1,3 @@
+Joguinho parecido com a task de memoria do among us
+
+Basicamente quando entrar no site principal e clicar em iniciar o jogo vai gerando uma sequencia de números aleatórios conforme o usuário vai acertando, se o usuário acertar adiciona-se mais um número aleatório a sequência e a rodada avança, se ele errar aparece uma mensagem dizendo que ele perdeu e a janela recarrega, o jogo acaba quando o usuário passar da rodada cinco
